@@ -1,6 +1,6 @@
 # :rocket: Space Exploration (Explored)
 
-*A notebook that uses python, pandas, matplotlib, and seaborn to explore a dataset related to space exploration. Currently in progress...*
+*A notebook that uses python, pandas, matplotlib, and seaborn to explore a dataset related to space exploration. Go [here](notebook/Markdown/ExploringSpaceExploration.md) to view the notebook itself.*
 
 ![Space Exploration Explored Gif](spaceexplorationexplored.gif)
 
